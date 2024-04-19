@@ -20,6 +20,7 @@ namespace катаевапр4
         private void button1_Click(object sender, EventArgs e)
         {
             label6.Text = "Спасибо за ответ! Мяу";
+            label6.Text = "Спасибо за ответ! Гав";
         }
 
         private void Form1_Load(object sender, EventArgs e)
